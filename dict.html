@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Словарь</title>
+<meta name="description" content="Словарь с транскрипцией, озвучкой и экспортом в Quizlet">
+<meta name="theme-color" content="#4B2C8C">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🖋️%3C/text%3E%3C/svg%3E">
+<script>try{var t=JSON.parse(localStorage.getItem("te:theme"));if(t&&t!=="auto")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Onest:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div class="wrap">
+<header id="top"></header>
+<nav id="nav" aria-label="Разделы"></nav>
+<main id="main">
+<h1 class="page">Словарь</h1>
+<p class="note">🔊 — озвучка (британский голос браузера). «Знаю» отмечает выученное: такие слова в тренажёре идут последними. Экспорт в Quizlet берёт текущую выборку.</p>
+<div class="filters" id="filters"></div>
+<div class="row" style="margin-bottom:12px"><button class="btn ghost small" id="exportBtn" type="button" aria-expanded="false">Экспорт в Quizlet</button><a class="btn ghost small" id="trainLink">Тренировать выборку →</a></div>
+<div class="panel hidden" id="exportBox">
+  <div class="opts2">
+    <label>Разделитель термина и определения<select class="field" id="xSep"><option value="tab">Табуляция (TAB)</option><option value="dash">Дефис « - »</option></select></label>
+    <label>Термин<select class="field" id="xDir"><option value="en">English → русский</option><option value="ru">русский → English</option></select></label>
+    <label>Транскрипция<select class="field" id="xTr"><option value="ipa">IPA [ˈstensl]</option><option value="ru">русскими (стенсил)</option><option value="both">обе</option><option value="none">без транскрипции</option></select></label>
+    <label class="inline"><input type="checkbox" id="xEx"> с примером</label>
+  </div>
+  <textarea id="exportText" readonly aria-label="Текст для импорта в Quizlet"></textarea>
+  <div class="row" style="margin-top:8px"><button class="btn small" id="copyBtn" type="button">Скопировать</button><button class="btn ghost small" id="dlBtn" type="button">Скачать .txt</button><span id="copyMsg" class="small-note" role="status"></span></div>
+  <p class="small-note" id="xHelp" style="margin:8px 0 0"></p>
+</div>
+<p class="count" id="count"></p>
+<div class="words" id="words"></div>
+</main>
+<footer>Tattoo English · прогресс хранится только в этом браузере</footer>
+</div>
+<script type="module" src="assets/js/dict.js"></script>
+</body>
+</html>

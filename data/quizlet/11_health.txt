@@ -1,0 +1,15 @@
+allergy [ˈælədʒi]	аллергия — Do you have any allergies?
+allergic to [əˈlɜːdʒɪk tə]	аллергия на — Are you allergic to latex?
+medication [ˌmedɪˈkeɪʃn]	лекарства — Are you taking any medication?
+blood thinners [blʌd ˈθɪnəz]	разжижающие кровь препараты — Are you taking blood thinners?
+pregnant [ˈpreɡnənt]	беременна — I don't tattoo pregnant women.
+diabetes [ˌdaɪəˈbiːtiːz]	диабет — Do you have diabetes?
+skin condition [skɪn kənˈdɪʃn]	кожное заболевание — Do you have any skin condition?
+alcohol [ˈælkəhɒl]	алкоголь — No alcohol 24 hours before the session.
+sterile [ˈsteraɪl]	стерильный — All needles are sterile.
+single-use [ˌsɪŋɡl ˈjuːs]	одноразовый — I use single-use cartridges.
+disposable [dɪˈspəʊzəbl]	одноразовый — All tubes are disposable.
+consent form [kənˈsent fɔːm]	согласие (форма) — Please sign the consent form.
+ID [ˌaɪ ˈdiː]	удостоверение личности — Can I see your ID?
+over 18 [ˈəʊvə ˈeɪtiːn]	старше 18 — You must be over 18.
+sterilization [ˌsterəlaɪˈzeɪʃn]	стерилизация — Sterilization is very important.

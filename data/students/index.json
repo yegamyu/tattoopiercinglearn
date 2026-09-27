@@ -1,0 +1,4 @@
+{
+  "_comment": "Список учеников. Чтобы добавить нового: создай data/students/<id>.json по образцу и допиши id сюда.",
+  "students": ["tattoo-a2", "piercing-a0"]
+}

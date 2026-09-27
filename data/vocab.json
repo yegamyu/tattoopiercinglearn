@@ -1,0 +1,5391 @@
+{
+"cats": {
+"studio": "Студия и оборудование",
+"body": "Тело: базовое",
+"anatomy": "Анатомия: продвинутая",
+"commands": "Команды на сеансе",
+"verbs": "Неправильные глаголы",
+"time": "Время и предлоги",
+"booking": "Запись и деньги",
+"design": "Стили и дизайн",
+"pain": "Боль и процесс",
+"aftercare": "Уход и заживление",
+"health": "Здоровье и безопасность",
+"client": "Общение с клиентом",
+"dota": "Dota → тату",
+"modals": "Модальные глаголы",
+"slang": "Сленг студии",
+"adjectives": "Описания и сравнения",
+"general": "Жизнь и общие слова",
+"p_basics": "Пирсинг: первые фразы",
+"p_places": "Пирсинг: зоны проколов",
+"p_jewelry": "Пирсинг: украшения и материалы",
+"p_tools": "Пирсинг: инструменты и процедура",
+"p_care": "Пирсинг: уход и проблемы"
+},
+"sources": {
+"base": "Базовый словарь",
+"q1": "Quizlet: Tattoo English 1",
+"q2": "Quizlet: урок CW21SEP",
+"q3": "Quizlet: новые слова по плану",
+"pierce": "Пирсинг"
+},
+"words": [{
+"id": "stencil",
+"en": "stencil",
+"ru": "трансфер, перевод эскиза на кожу",
+"ipa": "ˈstensl",
+"tr": "стенсил",
+"ex": "I made the stencil smaller.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "needle",
+"en": "needle",
+"ru": "игла",
+"ipa": "ˈniːdl",
+"tr": "нидл",
+"ex": "Use a thinner needle for fine lines.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "tattoo-machine",
+"en": "tattoo machine",
+"ru": "тату-машинка",
+"ipa": "təˈtuː məˈʃiːn",
+"tr": "тэту́ мэши́н",
+"ex": "I clean my tattoo machine every day.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "rotary-machine",
+"en": "rotary machine",
+"ru": "роторная машинка",
+"ipa": "ˈrəʊtəri məˈʃiːn",
+"tr": "ро́утэри мэши́н",
+"ex": "I usually work with a rotary machine.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "cartridge",
+"en": "cartridge",
+"ru": "картридж (модуль с иглой)",
+"ipa": "ˈkɑːtrɪdʒ",
+"tr": "ка́тридж",
+"ex": "I need a new cartridge.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "power-supply",
+"en": "power supply",
+"ru": "блок питания",
+"ipa": "ˈpaʊə səˈplaɪ",
+"tr": "па́уэ сэпла́й",
+"ex": "The power supply is under the table.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "ink",
+"en": "ink",
+"ru": "краска, пигмент",
+"ipa": "ɪŋk",
+"tr": "инк",
+"ex": "Black ink heals better.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "ink-cap",
+"en": "ink cap",
+"ru": "колпачок для краски",
+"ipa": "ɪŋk kæp",
+"tr": "инк кэп",
+"ex": "Fill the ink cap, please.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "gloves",
+"en": "gloves",
+"ru": "перчатки",
+"ipa": "ɡlʌvz",
+"tr": "главз",
+"ex": "I always wear gloves.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "paper-towel",
+"en": "paper towel",
+"ru": "бумажное полотенце",
+"ipa": "ˈpeɪpə ˈtaʊəl",
+"tr": "пейпэ тауэл",
+"ex": "Pass me a paper towel.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "green-soap",
+"en": "green soap",
+"ru": "зелёное мыло",
+"ipa": "ɡriːn səʊp",
+"tr": "грин соуп",
+"ex": "I wipe the skin with green soap.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "ointment",
+"en": "ointment",
+"ru": "мазь",
+"ipa": "ˈɔɪntmənt",
+"tr": "ойнтмент",
+"ex": "Apply a thin layer of ointment.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "razor",
+"en": "razor",
+"ru": "бритва",
+"ipa": "ˈreɪzə",
+"tr": "ре́йзэ",
+"ex": "I will shave the area with a razor.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "cling-film",
+"en": "cling film",
+"ru": "пищевая плёнка",
+"ipa": "klɪŋ fɪlm",
+"tr": "клинг филм",
+"ex": "I wrap the tattoo in cling film.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "second-skin",
+"en": "second skin",
+"ru": "заживляющая плёнка",
+"ipa": "ˈsekənd skɪn",
+"tr": "се́кэнд скин",
+"ex": "Keep the second skin on for three days.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "workstation",
+"en": "workstation",
+"ru": "рабочее место",
+"ipa": "ˈwɜːksteɪʃn",
+"tr": "воркстейшн",
+"ex": "My workstation is clean and ready.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "tattoo-bed",
+"en": "tattoo bed",
+"ru": "тату-кушетка",
+"ipa": "təˈtuː bed",
+"tr": "тэту́ бед",
+"ex": "Please lie down on the tattoo bed.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "armrest",
+"en": "armrest",
+"ru": "подлокотник (для руки)",
+"ipa": "ˈɑːmrest",
+"tr": "а́мрест",
+"ex": "Put your arm on the armrest.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "sketch",
+"en": "sketch",
+"ru": "эскиз, набросок",
+"ipa": "sketʃ",
+"tr": "скеч",
+"ex": "I drew a sketch last night.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "flash",
+"en": "flash",
+"ru": "флеш (готовые эскизы)",
+"ipa": "flæʃ",
+"tr": "флэш",
+"ex": "You can choose a design from my flash.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "tattoo-artist",
+"en": "tattoo artist",
+"ru": "тату-мастер (не «tattoo master»!)",
+"ipa": "təˈtuː ˈɑːtɪst",
+"tr": "тэту артист",
+"ex": "I am a tattoo artist.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "apprentice",
+"en": "apprentice",
+"ru": "ученик тату-мастера",
+"ipa": "əˈprentɪs",
+"tr": "эпре́нтис",
+"ex": "My apprentice cleans the station.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "appointment",
+"en": "appointment",
+"ru": "запись на сеанс",
+"ipa": "əˈpɔɪntmənt",
+"tr": "эпойнтмент",
+"ex": "Your appointment is at 2 p.m.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "portfolio",
+"en": "portfolio",
+"ru": "портфолио",
+"ipa": "pɔːtˈfəʊliəʊ",
+"tr": "потфо́улиоу",
+"ex": "Check my portfolio on Instagram.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "head",
+"en": "head",
+"ru": "голова",
+"ipa": "hed",
+"tr": "хед",
+"ex": "Keep your head still.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "face",
+"en": "face",
+"ru": "лицо",
+"ipa": "feɪs",
+"tr": "фейс",
+"ex": "I don't tattoo the face.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "neck",
+"en": "neck",
+"ru": "шея",
+"ipa": "nek",
+"tr": "нек",
+"ex": "The neck is a sensitive area.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "shoulder",
+"en": "shoulder",
+"ru": "плечо",
+"ipa": "ˈʃəʊldə",
+"tr": "шо́улдэ",
+"ex": "A shoulder piece heals well.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "arm",
+"en": "arm",
+"ru": "рука (от плеча до кисти)",
+"ipa": "ɑːm",
+"tr": "арм",
+"ex": "Put your arm here.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "elbow",
+"en": "elbow",
+"ru": "локоть",
+"ipa": "ˈelbəʊ",
+"tr": "э́лбоу",
+"ex": "The elbow is more painful.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "forearm",
+"en": "forearm",
+"ru": "предплечье",
+"ipa": "ˈfɔːrɑːm",
+"tr": "форарм",
+"ex": "Forearm tattoos are popular.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "wrist",
+"en": "wrist",
+"ru": "запястье",
+"ipa": "rɪst",
+"tr": "рист",
+"ex": "A small tattoo on the wrist.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "hand",
+"en": "hand",
+"ru": "кисть руки",
+"ipa": "hænd",
+"tr": "хэнд",
+"ex": "Hand tattoos fade faster.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "finger",
+"en": "finger",
+"ru": "палец (руки)",
+"ipa": "ˈfɪŋɡə",
+"tr": "фи́нгэ",
+"ex": "Finger tattoos fade fast.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "knuckles",
+"en": "knuckles",
+"ru": "костяшки пальцев",
+"ipa": "ˈnʌklz",
+"tr": "на́клз",
+"ex": "Lettering on the knuckles.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "chest",
+"en": "chest",
+"ru": "грудь (грудная клетка)",
+"ipa": "tʃest",
+"tr": "чест",
+"ex": "I blasted a sword on his chest.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "breast",
+"en": "breast",
+"ru": "грудь (женская)",
+"ipa": "brest",
+"tr": "брест",
+"ex": "She wants a tattoo under the breast.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "back",
+"en": "back",
+"ru": "спина",
+"ipa": "bæk",
+"tr": "бэк",
+"ex": "A back piece takes many sessions.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "spine",
+"en": "spine",
+"ru": "позвоночник",
+"ipa": "spaɪn",
+"tr": "спайн",
+"ex": "The spine is very painful.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "ribs",
+"en": "ribs",
+"ru": "рёбра",
+"ipa": "rɪbz",
+"tr": "рибз",
+"ex": "Ribs are one of the most painful places.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "stomach",
+"en": "stomach",
+"ru": "живот",
+"ipa": "ˈstʌmək",
+"tr": "ста́мэк",
+"ex": "Lie on your stomach, please.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "hip",
+"en": "hip",
+"ru": "бедро (тазобедренная часть)",
+"ipa": "hɪp",
+"tr": "хип",
+"ex": "A flower on the hip.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "thigh",
+"en": "thigh",
+"ru": "бедро (верхняя часть ноги)",
+"ipa": "θaɪ",
+"tr": "θай",
+"ex": "The thigh is good for big designs.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "knee",
+"en": "knee",
+"ru": "колено",
+"ipa": "niː",
+"tr": "ни",
+"ex": "The knee is very painful.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "calf",
+"en": "calf",
+"ru": "икра (ноги)",
+"ipa": "kɑːf",
+"tr": "каф",
+"ex": "A calf tattoo heals quickly.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "shin",
+"en": "shin",
+"ru": "голень (передняя часть)",
+"ipa": "ʃɪn",
+"tr": "шин",
+"ex": "The shin is bony.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "ankle",
+"en": "ankle",
+"ru": "лодыжка",
+"ipa": "ˈæŋkl",
+"tr": "энкл",
+"ex": "A small tattoo on the ankle.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "foot",
+"en": "foot",
+"ru": "стопа",
+"ipa": "fʊt",
+"tr": "фут",
+"ex": "Foot tattoos fade faster.",
+"c": "body",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "collarbone",
+"en": "collarbone",
+"ru": "ключица",
+"ipa": "ˈkɒləbəʊn",
+"tr": "колэбоун",
+"ex": "Lettering along the collarbone.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "shoulder-blade",
+"en": "shoulder blade",
+"ru": "лопатка",
+"ipa": "ˈʃəʊldə bleɪd",
+"tr": "шоулдэ блейд",
+"ex": "A design on the shoulder blade.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "sternum",
+"en": "sternum",
+"ru": "грудина",
+"ipa": "ˈstɜːnəm",
+"tr": "стёнэм",
+"ex": "Sternum tattoos are painful.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "biceps",
+"en": "biceps",
+"ru": "бицепс",
+"ipa": "ˈbaɪseps",
+"tr": "ба́йсепс",
+"ex": "Outer biceps is easy to blast.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "inner-arm",
+"en": "inner arm",
+"ru": "внутренняя сторона руки",
+"ipa": "ˈɪnə ɑːm",
+"tr": "и́нэ ам",
+"ex": "The inner arm is more sensitive.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "outer-arm",
+"en": "outer arm",
+"ru": "внешняя сторона руки",
+"ipa": "ˈaʊtə ɑːm",
+"tr": "а́утэ ам",
+"ex": "The outer arm is easier.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "armpit",
+"en": "armpit",
+"ru": "подмышка",
+"ipa": "ˈɑːmpɪt",
+"tr": "а́мпит",
+"ex": "The armpit is very sensitive.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "ribcage",
+"en": "ribcage",
+"ru": "грудная клетка (рёбра)",
+"ipa": "ˈrɪbkeɪdʒ",
+"tr": "ри́бкейдж",
+"ex": "A long design along the ribcage.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "lower-back",
+"en": "lower back",
+"ru": "поясница",
+"ipa": "ˈləʊə bæk",
+"tr": "ло́уэ бэк",
+"ex": "A design on the lower back.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "elbow-ditch",
+"en": "elbow ditch",
+"ru": "внутренний сгиб локтя",
+"ipa": "ˈelbəʊ dɪtʃ",
+"tr": "э́лбоу дич",
+"ex": "The elbow ditch is hard to heal.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "back-of-the-knee",
+"en": "back of the knee",
+"ru": "подколенная ямка",
+"ipa": "bæk əv ðə niː",
+"tr": "бэк эв ðэ ни",
+"ex": "The back of the knee is very painful.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "inner-thigh",
+"en": "inner thigh",
+"ru": "внутренняя сторона бедра",
+"ipa": "ˈɪnə θaɪ",
+"tr": "и́нэ θай",
+"ex": "The inner thigh is sensitive.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "top-of-the-foot",
+"en": "top of the foot",
+"ru": "подъём стопы",
+"ipa": "tɒp əv ðə fʊt",
+"tr": "топ эв ðэ фут",
+"ex": "The top of the foot is bony.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "bone",
+"en": "bone",
+"ru": "кость",
+"ipa": "bəʊn",
+"tr": "боун",
+"ex": "It hurts more on the bone.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "muscle",
+"en": "muscle",
+"ru": "мышца",
+"ipa": "ˈmʌsl",
+"tr": "ма́сл",
+"ex": "It hurts less on the muscle.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "skin",
+"en": "skin",
+"ru": "кожа",
+"ipa": "skɪn",
+"tr": "скин",
+"ex": "Your skin is a bit dry.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "vein",
+"en": "vein",
+"ru": "вена",
+"ipa": "veɪn",
+"tr": "вейн",
+"ex": "Don't worry, I avoid the veins.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "scar",
+"en": "scar",
+"ru": "шрам",
+"ipa": "skɑː",
+"tr": "скар",
+"ex": "I can cover the scar.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "stretch-marks",
+"en": "stretch marks",
+"ru": "растяжки",
+"ipa": "stretʃ mɑːks",
+"tr": "стреч макс",
+"ex": "We can tattoo over stretch marks.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "mole",
+"en": "mole",
+"ru": "родинка",
+"ipa": "məʊl",
+"tr": "моул",
+"ex": "I will go around the mole.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "bony-area",
+"en": "bony area",
+"ru": "костлявое место",
+"ipa": "ˈbəʊni ˈeəriə",
+"tr": "бо́уни э́ариэ",
+"ex": "Bony areas hurt more.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "fleshy-area",
+"en": "fleshy area",
+"ru": "мягкое место",
+"ipa": "ˈfleʃi ˈeəriə",
+"tr": "фле́ши э́ариэ",
+"ex": "Fleshy areas hurt less.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "hold-still",
+"en": "hold still",
+"ru": "замри, не двигайся",
+"ipa": "həʊld stɪl",
+"tr": "холд стил",
+"ex": "Hold still, please.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "dont-twitch",
+"en": "don't twitch",
+"ru": "не дёргайся",
+"ipa": "dəʊnt twɪtʃ",
+"tr": "доунт твич",
+"ex": "Don't twitch, I'm doing a line.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "relax",
+"en": "relax",
+"ru": "расслабься",
+"ipa": "rɪˈlæks",
+"tr": "рилэ́кс",
+"ex": "Relax your shoulder.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "take-a-deep-breath",
+"en": "take a deep breath",
+"ru": "сделай глубокий вдох",
+"ipa": "teɪk ə diːp breθ",
+"tr": "тейк э дип бреθ",
+"ex": "Take a deep breath and relax.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "bend-your-arm",
+"en": "bend your arm",
+"ru": "согни руку",
+"ipa": "bend jə ɑːm",
+"tr": "бенд йэ ам",
+"ex": "Bend your arm a little.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "straighten-your-arm",
+"en": "straighten your arm",
+"ru": "выпрями руку",
+"ipa": "ˈstreɪtən jə ɑːm",
+"tr": "стре́йтэн йэ ам",
+"ex": "Straighten your arm, please.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "turn-around",
+"en": "turn around",
+"ru": "повернись",
+"ipa": "tɜːn əˈraʊnd",
+"tr": "тёрн эраунд",
+"ex": "Turn around, please.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "lie-down",
+"en": "lie down",
+"ru": "ляг",
+"ipa": "laɪ daʊn",
+"tr": "лай даун",
+"ex": "Lie down on the bed.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "lie-on-your-back",
+"en": "lie on your back",
+"ru": "ляг на спину",
+"ipa": "laɪ ɒn jə bæk",
+"tr": "лай он йэ бэк",
+"ex": "Please lie on your back.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "lie-on-your-stomach",
+"en": "lie on your stomach",
+"ru": "ляг на живот",
+"ipa": "laɪ ɒn jə ˈstʌmək",
+"tr": "лай он йэ ста́мэк",
+"ex": "Lie on your stomach, I will do your back.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "sit-up",
+"en": "sit up",
+"ru": "сядь (из лежачего)",
+"ipa": "sɪt ʌp",
+"tr": "сит ап",
+"ex": "You can sit up now.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "raise-your-arm",
+"en": "raise your arm",
+"ru": "подними руку",
+"ipa": "reɪz jə ɑːm",
+"tr": "рейз йэ ам",
+"ex": "Raise your arm, please.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "keep-your-arm-here",
+"en": "keep your arm here",
+"ru": "держи руку здесь",
+"ipa": "kiːp jə ɑːm hɪə",
+"tr": "кип йэ ам хиэ",
+"ex": "Keep your arm here and relax.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "let-me-know",
+"en": "let me know",
+"ru": "дай мне знать",
+"ipa": "let miː nəʊ",
+"tr": "лет ми ноу",
+"ex": "Let me know if you need a break.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "take-a-break",
+"en": "take a break",
+"ru": "сделать перерыв",
+"ipa": "teɪk ə breɪk",
+"tr": "тейк э брейк",
+"ex": "Let's take a break.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "look-in-the-mirror",
+"en": "look in the mirror",
+"ru": "посмотри в зеркало",
+"ipa": "lʊk ɪn ðə ˈmɪrə",
+"tr": "лук ин ðэ ми́рэ",
+"ex": "Look in the mirror. Do you like the placement?",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "dont-touch",
+"en": "don't touch",
+"ru": "не трогай",
+"ipa": "dəʊnt tʌtʃ",
+"tr": "доунт тач",
+"ex": "Don't touch the stencil.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "stretch-the-skin",
+"en": "stretch the skin",
+"ru": "натягивать кожу",
+"ipa": "stretʃ ðə skɪn",
+"tr": "стреч ðэ скин",
+"ex": "I will stretch the skin a little.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "make-made",
+"en": "make – made",
+"ru": "делать – сделал",
+"ipa": "meɪk – meɪd",
+"tr": "мейк – мейд",
+"ex": "I made a stencil. (не I am made)",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "feel-felt",
+"en": "feel – felt",
+"ru": "чувствовать – почувствовал",
+"ipa": "fiːl – felt",
+"tr": "фил – фелт",
+"ex": "He felt pain.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "take-took",
+"en": "take – took",
+"ru": "брать, занимать – взял, занял",
+"ipa": "teɪk – tʊk",
+"tr": "тейк – тук",
+"ex": "The session took 3 hours.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "buy-bought",
+"en": "buy – bought",
+"ru": "покупать – купил",
+"ipa": "baɪ – bɔːt",
+"tr": "бай – бот",
+"ex": "I bought new needles.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "pay-paid",
+"en": "pay – paid",
+"ru": "платить – заплатил",
+"ipa": "peɪ – peɪd",
+"tr": "пей – пейд",
+"ex": "She paid a deposit.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "leave-left",
+"en": "leave – left",
+"ru": "уходить – ушёл",
+"ipa": "liːv – left",
+"tr": "лиив – лефт",
+"ex": "He left 10 minutes ago.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "come-came",
+"en": "come – came",
+"ru": "приходить – пришёл",
+"ipa": "kʌm – keɪm",
+"tr": "кам – кейм",
+"ex": "The client came at 12.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "go-went",
+"en": "go – went",
+"ru": "идти – пошёл",
+"ipa": "ɡəʊ – went",
+"tr": "гоу – вент",
+"ex": "I went home.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "do-did",
+"en": "do – did",
+"ru": "делать – сделал",
+"ipa": "duː – dɪd",
+"tr": "ду – дид",
+"ex": "I did a cover-up yesterday.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "draw-drew",
+"en": "draw – drew",
+"ru": "рисовать – нарисовал",
+"ipa": "drɔː – druː",
+"tr": "дро – дру",
+"ex": "I drew a dragon.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "choose-chose",
+"en": "choose – chose",
+"ru": "выбирать – выбрал",
+"ipa": "tʃuːz – tʃəʊz",
+"tr": "чуз – чоуз",
+"ex": "She chose a small design.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "sit-sat",
+"en": "sit – sat",
+"ru": "сидеть – сидел",
+"ipa": "sɪt – sæt",
+"tr": "сит – сэт",
+"ex": "He sat for 5 hours.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "begin-began",
+"en": "begin – began",
+"ru": "начинать – начал",
+"ipa": "bɪˈɡɪn – bɪˈɡæn",
+"tr": "биги́н – бигэ́н",
+"ex": "We began at 10.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "bleed-bled",
+"en": "bleed – bled",
+"ru": "кровоточить – кровоточил",
+"ipa": "bliːd – bled",
+"tr": "блид – блед",
+"ex": "The skin bled a little.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "hurt-hurt",
+"en": "hurt – hurt",
+"ru": "болеть – болело",
+"ipa": "hɜːt – hɜːt",
+"tr": "хёт – хёт",
+"ex": "It hurt a lot.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "put-put",
+"en": "put – put",
+"ru": "класть – положил",
+"ipa": "pʊt – pʊt",
+"tr": "пут – пут",
+"ex": "I put the ointment on.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "get-got",
+"en": "get – got",
+"ru": "получать – получил",
+"ipa": "ɡet – ɡɒt",
+"tr": "гет – гот",
+"ex": "I got a new machine.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "give-gave",
+"en": "give – gave",
+"ru": "давать – дал",
+"ipa": "ɡɪv – ɡeɪv",
+"tr": "гив – гейв",
+"ex": "I gave him aftercare advice.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "see-saw",
+"en": "see – saw",
+"ru": "видеть – увидел",
+"ipa": "siː – sɔː",
+"tr": "си – со",
+"ex": "I saw your post.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "think-thought",
+"en": "think – thought",
+"ru": "думать – подумал",
+"ipa": "θɪŋk – θɔːt",
+"tr": "θинк – θот",
+"ex": "I thought it was too big.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "tell-told",
+"en": "tell – told",
+"ru": "говорить (кому-то) – сказал",
+"ipa": "tel – təʊld",
+"tr": "тел – тоулд",
+"ex": "I told him to hold still.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "say-said",
+"en": "say – said",
+"ru": "сказать – сказал",
+"ipa": "seɪ – sed",
+"tr": "сей – сед",
+"ex": "He said it was OK.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "find-found",
+"en": "find – found",
+"ru": "находить – нашёл",
+"ipa": "faɪnd – faʊnd",
+"tr": "файнд – фаунд",
+"ex": "I found a good reference.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "forget-forgot",
+"en": "forget – forgot",
+"ru": "забывать – забыл",
+"ipa": "fəˈɡet – fəˈɡɒt",
+"tr": "фэге́т – фэго́т",
+"ex": "He forgot his ID.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "wear-wore",
+"en": "wear – wore",
+"ru": "носить – носил",
+"ipa": "weə – wɔː",
+"tr": "уэа – уо",
+"ex": "She wore a loose shirt.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "spend-spent",
+"en": "spend – spent",
+"ru": "тратить – потратил",
+"ipa": "spend – spent",
+"tr": "спенд – спент",
+"ex": "I spent 2 hours on shading.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "ago",
+"en": "ago",
+"ru": "назад (точка в прошлом)",
+"ipa": "əˈɡəʊ",
+"tr": "эго́у",
+"ex": "I started 5 years ago.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "for",
+"en": "for",
+"ru": "в течение (длительность)",
+"ipa": "fɔː",
+"tr": "фо",
+"ex": "I have worked here for 1 year.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "since",
+"en": "since",
+"ru": "с (какого-то момента)",
+"ipa": "sɪns",
+"tr": "синс",
+"ex": "I have been a tattoo artist since 2019.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "yesterday",
+"en": "yesterday",
+"ru": "вчера",
+"ipa": "ˈjestədi",
+"tr": "йестэдей",
+"ex": "Yesterday I made a stencil.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "last-week",
+"en": "last week",
+"ru": "на прошлой неделе",
+"ipa": "lɑːst wiːk",
+"tr": "ласт вик",
+"ex": "I did a cover-up last week.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "in-two-weeks",
+"en": "in two weeks",
+"ru": "через две недели",
+"ipa": "ɪn tuː wiːks",
+"tr": "ин ту уикс",
+"ex": "It will heal in two weeks.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "right-now",
+"en": "right now",
+"ru": "прямо сейчас",
+"ipa": "raɪt naʊ",
+"tr": "райт нау",
+"ex": "I am blasting a line right now.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "usually",
+"en": "usually",
+"ru": "обычно",
+"ipa": "ˈjuːʒʊəli",
+"tr": "южуали",
+"ex": "I usually start at 11.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "already",
+"en": "already",
+"ru": "уже",
+"ipa": "ɔːlˈredi",
+"tr": "олре́ди",
+"ex": "I have already made the stencil.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "yet",
+"en": "yet",
+"ru": "ещё (в вопросах/отрицаниях)",
+"ipa": "jet",
+"tr": "йэт",
+"ex": "It hasn't healed yet.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "until",
+"en": "until",
+"ru": "до (какого-то момента)",
+"ipa": "ʌnˈtɪl",
+"tr": "анти́л",
+"ex": "Keep the film until Friday.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "during",
+"en": "during",
+"ru": "во время",
+"ipa": "ˈdjʊərɪŋ",
+"tr": "дьюринг",
+"ex": "Don't move during the session.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "book-an-appointment",
+"en": "book an appointment",
+"ru": "записаться на сеанс",
+"ipa": "bʊk ən əˈpɔɪntmənt",
+"tr": "бук эн эпо́йнтмэнт",
+"ex": "You can book an appointment online.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "deposit",
+"en": "deposit",
+"ru": "предоплата, депозит",
+"ipa": "dɪˈpɒzɪt",
+"tr": "дипозит",
+"ex": "The deposit is 50 dollars.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "non-refundable",
+"en": "non-refundable",
+"ru": "невозвратный",
+"ipa": "ˌnɒn rɪˈfʌndəbl",
+"tr": "нон рифандэбл",
+"ex": "The deposit is non-refundable.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "price",
+"en": "price",
+"ru": "цена",
+"ipa": "praɪs",
+"tr": "прайс",
+"ex": "The price depends on the size.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "hourly-rate",
+"en": "hourly rate",
+"ru": "почасовая ставка",
+"ipa": "ˈaʊəli reɪt",
+"tr": "а́уэли рейт",
+"ex": "My hourly rate is 100 euros.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "day-session",
+"en": "day session",
+"ru": "сеанс на целый день",
+"ipa": "deɪ ˈseʃn",
+"tr": "дей се́шн",
+"ex": "A back piece needs a day session.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "reschedule",
+"en": "reschedule",
+"ru": "перенести (запись)",
+"ipa": "ˌriːˈʃedjuːl",
+"tr": "ришеджул",
+"ex": "Can we reschedule?",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "cancel",
+"en": "cancel",
+"ru": "отменить",
+"ipa": "ˈkænsl",
+"tr": "кэнсл",
+"ex": "He cancelled his appointment.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "available",
+"en": "available",
+"ru": "свободен, доступен",
+"ipa": "əˈveɪləbl",
+"tr": "эвейлэбл",
+"ex": "I am available on Monday.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "fully-booked",
+"en": "fully booked",
+"ru": "всё занято",
+"ipa": "ˈfʊli bʊkt",
+"tr": "фули букт",
+"ex": "I am fully booked this month.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "waiting-list",
+"en": "waiting list",
+"ru": "лист ожидания",
+"ipa": "ˈweɪtɪŋ lɪst",
+"tr": "уе́йтинг лист",
+"ex": "I can put you on the waiting list.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "bank-transfer",
+"en": "bank transfer",
+"ru": "банковский перевод",
+"ipa": "bæŋk trænsˈfɜː",
+"tr": "бэнк трансфё",
+"ex": "You can pay by bank transfer.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "cash",
+"en": "cash",
+"ru": "наличные",
+"ipa": "kæʃ",
+"tr": "кэш",
+"ex": "Can I pay in cash?",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "discount",
+"en": "discount",
+"ru": "скидка",
+"ipa": "ˈdɪskaʊnt",
+"tr": "дискаунт",
+"ex": "There is a discount for students.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "how-much-does-it-cost",
+"en": "How much does it cost?",
+"ru": "Сколько это стоит?",
+"ipa": "haʊ mʌtʃ dʌz ɪt kɒst",
+"tr": "хау мач даз ит кост",
+"ex": "How much does it cost? — It's 150 euros.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "mortgage",
+"en": "mortgage",
+"ru": "ипотека («t» не читается!)",
+"ipa": "ˈmɔːɡɪdʒ",
+"tr": "могидж",
+"ex": "I pay my mortgage every month.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "fine-line",
+"en": "fine line",
+"ru": "файн-лайн, тонкие линии",
+"ipa": "faɪn laɪn",
+"tr": "файн лайн",
+"ex": "Fine line tattoos look delicate.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "blackwork",
+"en": "blackwork",
+"ru": "блэкворк",
+"ipa": "ˈblækwɜːk",
+"tr": "блэ́квёк",
+"ex": "I love blackwork and dotwork.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "realism",
+"en": "realism",
+"ru": "реализм",
+"ipa": "ˈrɪəlɪzəm",
+"tr": "ри́элизэм",
+"ex": "Realism takes a lot of time.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "traditional",
+"en": "traditional",
+"ru": "олд-скул, традишнл",
+"ipa": "trəˈdɪʃnl",
+"tr": "трэди́шнл",
+"ex": "Traditional tattoos have bold lines.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "neo-traditional",
+"en": "neo-traditional",
+"ru": "нео-традишнл",
+"ipa": "ˌniːəʊ trəˈdɪʃənl",
+"tr": "ниоу трэди́шэнл",
+"ex": "Neo-traditional has more colours.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "japanese-style",
+"en": "Japanese style",
+"ru": "японский стиль, ирэдзуми",
+"ipa": "ˌdʒæpəˈniːz staɪl",
+"tr": "джэпэни́з стайл",
+"ex": "He wants a Japanese style dragon.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "dotwork",
+"en": "dotwork",
+"ru": "дотворк",
+"ipa": "ˈdɒtwɜːk",
+"tr": "до́твёк",
+"ex": "The shading is in dotwork.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "lettering",
+"en": "lettering",
+"ru": "леттеринг, надпись",
+"ipa": "ˈletərɪŋ",
+"tr": "ле́тэринг",
+"ex": "Lettering on the collarbone.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "watercolor",
+"en": "watercolor",
+"ru": "акварель",
+"ipa": "ˈwɔːtəkʌlə",
+"tr": "уо́тэкалэ",
+"ex": "Watercolor needs a black outline.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "geometric",
+"en": "geometric",
+"ru": "геометрия",
+"ipa": "ˌdʒiːəˈmetrɪk",
+"tr": "джиэме́трик",
+"ex": "A geometric design on the forearm.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "linework",
+"en": "linework",
+"ru": "контур, линии",
+"ipa": "ˈlaɪnwɜːk",
+"tr": "ла́йнвёк",
+"ex": "The linework is done.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "outline",
+"en": "outline",
+"ru": "контур",
+"ipa": "ˈaʊtlaɪn",
+"tr": "аутлайн",
+"ex": "First I do the outline.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "shading",
+"en": "shading",
+"ru": "тени, закрас",
+"ipa": "ˈʃeɪdɪŋ",
+"tr": "шейдинг",
+"ex": "Next session we will do the shading.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "black-and-grey",
+"en": "black and grey",
+"ru": "чёрно-серая работа",
+"ipa": "blæk ənd ɡreɪ",
+"tr": "блэк энд грей",
+"ex": "I usually work in black and grey.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "full-sleeve",
+"en": "full sleeve",
+"ru": "полный рукав (не «full at the leave»)",
+"ipa": "fʊl sliːv",
+"tr": "фул слив",
+"ex": "A full sleeve takes 6–8 sessions.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "half-sleeve",
+"en": "half sleeve",
+"ru": "полрукава",
+"ipa": "hɑːf sliːv",
+"tr": "хаф слив",
+"ex": "A half sleeve takes three sessions.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "back-piece",
+"en": "back piece",
+"ru": "работа на всю спину",
+"ipa": "bæk piːs",
+"tr": "бэк пис",
+"ex": "A back piece takes many sessions.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "cover-up",
+"en": "cover-up",
+"ru": "перекрытие",
+"ipa": "ˈkʌvər ʌp",
+"tr": "кавэрап",
+"ex": "I can do a cover-up of this old tattoo.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "touch-up",
+"en": "touch-up",
+"ru": "коррекция",
+"ipa": "ˈtʌtʃ ʌp",
+"tr": "тачап",
+"ex": "A free touch-up after healing.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "placement",
+"en": "placement",
+"ru": "размещение (место на теле)",
+"ipa": "ˈpleɪsmənt",
+"tr": "плейсмент",
+"ex": "Let's talk about the placement.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "size",
+"en": "size",
+"ru": "размер",
+"ipa": "saɪz",
+"tr": "сайз",
+"ex": "What size do you want?",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "custom-design",
+"en": "custom design",
+"ru": "индивидуальный эскиз",
+"ipa": "ˈkʌstəm dɪˈzaɪn",
+"tr": "ка́стэм диза́йн",
+"ex": "I only do custom designs.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "reference",
+"en": "reference",
+"ru": "референс",
+"ipa": "ˈrefrəns",
+"tr": "рефрэнс",
+"ex": "Do you have a reference?",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "bigger-smaller",
+"en": "bigger / smaller",
+"ru": "больше / меньше",
+"ipa": "ˈbɪɡə / ˈsmɔːlə",
+"tr": "бигэ / смолэ",
+"ex": "Can we make it smaller?",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "thinner-darker",
+"en": "thinner / darker",
+"ru": "тоньше / темнее",
+"ipa": "ˈθɪnə / ˈdɑːkə",
+"tr": "θинэ / даркэ",
+"ex": "Make the line thinner.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "painful",
+"en": "painful",
+"ru": "болезненный",
+"ipa": "ˈpeɪnfl",
+"tr": "пе́йнфл",
+"ex": "The ribs are painful.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "more-painful",
+"en": "more painful",
+"ru": "больнее",
+"ipa": "mɔː ˈpeɪnfl",
+"tr": "мо пейнфул",
+"ex": "The inner arm is more painful.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "the-most-painful",
+"en": "the most painful",
+"ru": "самый болезненный",
+"ipa": "ðə məʊst ˈpeɪnfl",
+"tr": "ðэ моуст пе́йнфл",
+"ex": "The ribs are the most painful.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "sensitive",
+"en": "sensitive",
+"ru": "чувствительный",
+"ipa": "ˈsensətɪv",
+"tr": "сенситив",
+"ex": "This area is sensitive.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "sore",
+"en": "sore",
+"ru": "ноющий, болезненный",
+"ipa": "sɔː",
+"tr": "со",
+"ex": "It will be sore for 2 days.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "sting",
+"en": "sting",
+"ru": "жечь, щипать",
+"ipa": "stɪŋ",
+"tr": "стинг",
+"ex": "It stings a little.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "burn",
+"en": "burn",
+"ru": "жечь, гореть",
+"ipa": "bɜːn",
+"tr": "бён",
+"ex": "It burns.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "numb",
+"en": "numb",
+"ru": "онемевший",
+"ipa": "nʌm",
+"tr": "нам",
+"ex": "The area feels numb.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "numbing-cream",
+"en": "numbing cream",
+"ru": "обезболивающий крем",
+"ipa": "ˈnʌmɪŋ kriːm",
+"tr": "на́минг крим",
+"ex": "You can use numbing cream.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "bleed",
+"en": "bleed",
+"ru": "кровоточить",
+"ipa": "bliːd",
+"tr": "блид",
+"ex": "It will bleed a little.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "swelling",
+"en": "swelling",
+"ru": "отёк",
+"ipa": "ˈswelɪŋ",
+"tr": "свеллинг",
+"ex": "Some swelling is normal.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "redness",
+"en": "redness",
+"ru": "покраснение",
+"ipa": "ˈrednəs",
+"tr": "реднэс",
+"ex": "Redness will go in 2–3 days.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "bearable",
+"en": "bearable",
+"ru": "терпимо",
+"ipa": "ˈbeərəbl",
+"tr": "бэрэбл",
+"ex": "Is it bearable?",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "does-it-hurt",
+"en": "Does it hurt?",
+"ru": "Больно?",
+"ipa": "dʌz ɪt hɜːt",
+"tr": "даз ит хёт",
+"ex": "Does it hurt? — Just a little.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "on-a-scale-from-1-to-10",
+"en": "on a scale from 1 to 10",
+"ru": "по шкале от 1 до 10",
+"ipa": "ɒn ə skeɪl frəm wʌn tə ten",
+"tr": "он э скейл фрэм уан тэ тен",
+"ex": "How bad is the pain on a scale from 1 to 10?",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "dizzy",
+"en": "dizzy",
+"ru": "головокружение",
+"ipa": "ˈdɪzi",
+"tr": "дизи",
+"ex": "Do you feel dizzy?",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "pass-out",
+"en": "pass out",
+"ru": "упасть в обморок",
+"ipa": "pɑːs aʊt",
+"tr": "пас аут",
+"ex": "Eat before the session so you don't pass out.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "aftercare",
+"en": "aftercare",
+"ru": "уход за татуировкой",
+"ipa": "ˈɑːftəkeə",
+"tr": "афтеркейр",
+"ex": "Here are the aftercare instructions.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "heal",
+"en": "heal",
+"ru": "заживать",
+"ipa": "hiːl",
+"tr": "хил",
+"ex": "It will heal in two weeks.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "healing",
+"en": "healing",
+"ru": "заживление",
+"ipa": "ˈhiːlɪŋ",
+"tr": "хи́линг",
+"ex": "Healing takes 2–4 weeks.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "wash",
+"en": "wash",
+"ru": "мыть",
+"ipa": "wɒʃ",
+"tr": "уош",
+"ex": "Wash it twice a day.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "pat-dry",
+"en": "pat dry",
+"ru": "промокнуть насухо",
+"ipa": "pæt draɪ",
+"tr": "пэт драй",
+"ex": "Pat it dry with a paper towel.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "apply",
+"en": "apply",
+"ru": "наносить",
+"ipa": "əˈplaɪ",
+"tr": "эплай",
+"ex": "Apply a thin layer of ointment.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "thin-layer",
+"en": "thin layer",
+"ru": "тонкий слой",
+"ipa": "θɪn ˈleɪə",
+"tr": "θин ле́йэ",
+"ex": "Apply a thin layer of ointment.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "scab",
+"en": "scab",
+"ru": "корочка",
+"ipa": "skæb",
+"tr": "скэб",
+"ex": "Don't pick the scabs.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base",
+"q2"
+]
+},{
+"id": "peel",
+"en": "peel",
+"ru": "шелушиться, облезать",
+"ipa": "piːl",
+"tr": "пил",
+"ex": "It will peel in a week.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "itch",
+"en": "itch",
+"ru": "чесаться",
+"ipa": "ɪtʃ",
+"tr": "итч",
+"ex": "It itches – it's normal.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "dont-scratch",
+"en": "don't scratch",
+"ru": "не чеши",
+"ipa": "dəʊnt skrætʃ",
+"tr": "доунт скрэч",
+"ex": "It itches, but don't scratch.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "dont-pick",
+"en": "don't pick",
+"ru": "не отковыривай",
+"ipa": "dəʊnt pɪk",
+"tr": "доунт пик",
+"ex": "Don't pick the scabs.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "sunscreen",
+"en": "sunscreen",
+"ru": "солнцезащитный крем",
+"ipa": "ˈsʌnskriːn",
+"tr": "санскрин",
+"ex": "Use sunscreen after healing.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "swimming-pool",
+"en": "swimming pool",
+"ru": "бассейн",
+"ipa": "ˈswɪmɪŋ puːl",
+"tr": "свиминг пул",
+"ex": "No swimming pool for 2 weeks.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "sauna",
+"en": "sauna",
+"ru": "сауна",
+"ipa": "ˈsɔːnə",
+"tr": "со́нэ",
+"ex": "Avoid the sauna.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "tight-clothes",
+"en": "tight clothes",
+"ru": "тесная одежда",
+"ipa": "taɪt kləʊz",
+"tr": "тайт клоуз",
+"ex": "Don't wear tight clothes.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "lukewarm-water",
+"en": "lukewarm water",
+"ru": "тёплая вода",
+"ipa": "ˌluːkˈwɔːm ˈwɔːtə",
+"tr": "лукво́м уо́тэ",
+"ex": "Wash it with lukewarm water.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "unscented-soap",
+"en": "unscented soap",
+"ru": "мыло без запаха",
+"ipa": "ʌnˈsentɪd səʊp",
+"tr": "ансе́нтид соуп",
+"ex": "Wash it with unscented soap.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "fade",
+"en": "fade",
+"ru": "выцветать",
+"ipa": "feɪd",
+"tr": "фейд",
+"ex": "Sun makes tattoos fade.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "infection",
+"en": "infection",
+"ru": "инфекция",
+"ipa": "ɪnˈfekʃn",
+"tr": "инфекшн",
+"ex": "Call me if you see signs of infection.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "allergy",
+"en": "allergy",
+"ru": "аллергия",
+"ipa": "ˈælədʒi",
+"tr": "элэджи",
+"ex": "Do you have any allergies?",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "allergic-to",
+"en": "allergic to",
+"ru": "аллергия на",
+"ipa": "əˈlɜːdʒɪk tə",
+"tr": "элёджик тэ",
+"ex": "Are you allergic to latex?",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "medication",
+"en": "medication",
+"ru": "лекарства",
+"ipa": "ˌmedɪˈkeɪʃn",
+"tr": "медикейшн",
+"ex": "Are you taking any medication?",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "blood-thinners",
+"en": "blood thinners",
+"ru": "разжижающие кровь препараты",
+"ipa": "blʌd ˈθɪnəz",
+"tr": "блад θи́нэз",
+"ex": "Are you taking blood thinners?",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "pregnant",
+"en": "pregnant",
+"ru": "беременна",
+"ipa": "ˈpreɡnənt",
+"tr": "пре́гнэнт",
+"ex": "I don't tattoo pregnant women.",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "diabetes",
+"en": "diabetes",
+"ru": "диабет",
+"ipa": "ˌdaɪəˈbiːtiːz",
+"tr": "дайэби́тиз",
+"ex": "Do you have diabetes?",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "skin-condition",
+"en": "skin condition",
+"ru": "кожное заболевание",
+"ipa": "skɪn kənˈdɪʃn",
+"tr": "скин кэнди́шн",
+"ex": "Do you have any skin condition?",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "alcohol",
+"en": "alcohol",
+"ru": "алкоголь",
+"ipa": "ˈælkəhɒl",
+"tr": "э́лкэхол",
+"ex": "No alcohol 24 hours before the session.",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "sterile",
+"en": "sterile",
+"ru": "стерильный",
+"ipa": "ˈsteraɪl",
+"tr": "стерайл",
+"ex": "All needles are sterile.",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "single-use",
+"en": "single-use",
+"ru": "одноразовый",
+"ipa": "ˌsɪŋɡl ˈjuːs",
+"tr": "сингл юс",
+"ex": "I use single-use cartridges.",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "disposable",
+"en": "disposable",
+"ru": "одноразовый",
+"ipa": "dɪˈspəʊzəbl",
+"tr": "диспо́узэбл",
+"ex": "All tubes are disposable.",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "consent-form",
+"en": "consent form",
+"ru": "согласие (форма)",
+"ipa": "kənˈsent fɔːm",
+"tr": "консент форм",
+"ex": "Please sign the consent form.",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "id",
+"en": "ID",
+"ru": "удостоверение личности",
+"ipa": "ˌaɪ ˈdiː",
+"tr": "ай ди",
+"ex": "Can I see your ID?",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "over-18",
+"en": "over 18",
+"ru": "старше 18",
+"ipa": "ˈəʊvə ˈeɪtiːn",
+"tr": "о́увэ э́йтин",
+"ex": "You must be over 18.",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "id-recommend",
+"en": "I'd recommend…",
+"ru": "Я бы посоветовал…",
+"ipa": "aɪd ˌrekəˈmend",
+"tr": "айд рекомэнд",
+"ex": "I'd recommend a bigger size.",
+"c": "client",
+"m": 9,
+"track": "tattoo",
+"src": [
+"base",
+"q3"
+]
+},{
+"id": "would-you-like",
+"en": "Would you like…?",
+"ru": "Хотите…?",
+"ipa": "wʊd juː laɪk",
+"tr": "вуд ю лайк",
+"ex": "Would you like some water?",
+"c": "client",
+"m": 9,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "could-you",
+"en": "Could you…?",
+"ru": "Не могли бы вы…?",
+"ipa": "kʊd juː",
+"tr": "куд ю",
+"ex": "Could you turn around, please?",
+"c": "client",
+"m": 9,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "im-afraid",
+"en": "I'm afraid…",
+"ru": "Боюсь, что… (вежливый отказ)",
+"ipa": "aɪm əˈfreɪd",
+"tr": "айм эфре́йд",
+"ex": "I'm afraid it's too small for lettering.",
+"c": "client",
+"m": 9,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "let-me-show-you",
+"en": "Let me show you",
+"ru": "Давайте я покажу",
+"ipa": "let miː ʃəʊ juː",
+"tr": "лет ми шоу ю",
+"ex": "Let me show you the stencil.",
+"c": "client",
+"m": 9,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "what-do-you-think",
+"en": "What do you think?",
+"ru": "Что думаете?",
+"ipa": "wɒt duː juː θɪŋk",
+"tr": "уот ду ю θинк",
+"ex": "Here is the sketch. What do you think?",
+"c": "client",
+"m": 9,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "complaint",
+"en": "complaint",
+"ru": "жалоба",
+"ipa": "kəmˈpleɪnt",
+"tr": "кэмпле́йнт",
+"ex": "I understand your complaint.",
+"c": "client",
+"m": 9,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "refund",
+"en": "refund",
+"ru": "возврат денег",
+"ipa": "ˈriːfʌnd",
+"tr": "ри́фанд",
+"ex": "The deposit is non-refundable, so no refund.",
+"c": "client",
+"m": 9,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "review",
+"en": "review",
+"ru": "отзыв",
+"ipa": "rɪˈvjuː",
+"tr": "ривю́",
+"ex": "Please leave a review.",
+"c": "client",
+"m": 9,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "feedback",
+"en": "feedback",
+"ru": "обратная связь",
+"ipa": "ˈfiːdbæk",
+"tr": "фи́дбэк",
+"ex": "Thank you for your feedback!",
+"c": "client",
+"m": 9,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "cooldown",
+"en": "cooldown",
+"ru": "кулдаун → время заживления",
+"ipa": "ˈkuːldaʊn",
+"tr": "кулдаун",
+"ex": "After the session your skin has a cooldown: two weeks.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base",
+"q1"
+]
+},{
+"id": "hp-regen",
+"en": "HP regen",
+"ru": "реген → заживление",
+"ipa": "ˌeɪtʃ ˈpiː ˈriːdʒen",
+"tr": "эйч пи ри́джен",
+"ex": "Ointment is like HP regen for your skin.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "ward",
+"en": "ward",
+"ru": "вард → трансфер показывает, куда бить",
+"ipa": "wɔːd",
+"tr": "уод",
+"ex": "The stencil is my ward: it shows the way.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "ultimate",
+"en": "ultimate",
+"ru": "ульта → самый сложный этап",
+"ipa": "ˈʌltɪmɪt",
+"tr": "а́лтимит",
+"ex": "Shading is my ultimate.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "debuff",
+"en": "debuff",
+"ru": "дебафф → солнце, сауна, бассейн",
+"ipa": "ˈdiːbʌf",
+"tr": "ди́баф",
+"ex": "The sun is a debuff for fresh ink.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "farm",
+"en": "farm",
+"ru": "фарм → набивать опыт",
+"ipa": "fɑːm",
+"tr": "фам",
+"ex": "I farm experience every day.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"base"
+]
+},{
+"id": "save",
+"en": "save",
+"ru": "копить",
+"ipa": "seɪv",
+"tr": "сейв",
+"ex": "I save money for a new machine.",
+"c": "general",
+"m": 3,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "pain",
+"en": "pain",
+"ru": "боль",
+"ipa": "peɪn",
+"tr": "пейн",
+"ex": "The pain will stop soon.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "wipe",
+"en": "wipe",
+"ru": "вытирать",
+"ipa": "waɪp",
+"tr": "вайп",
+"ex": "I wipe the skin with green soap.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "thin",
+"en": "thin",
+"ru": "тонкая",
+"ipa": "θɪn",
+"tr": "θин",
+"ex": "I need a thin line here.",
+"c": "adjectives",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "rules",
+"en": "rules",
+"ru": "правила",
+"ipa": "ruːlz",
+"tr": "рулс",
+"ex": "These are the studio rules.",
+"c": "general",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "table",
+"en": "table",
+"ru": "стол",
+"ipa": "ˈteɪbl",
+"tr": "тейбл",
+"ex": "Put your bag on the table, please.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "ancient",
+"en": "ancient",
+"ru": "Древний / База / Главное здание",
+"ipa": "ˈeɪnʃənt",
+"tr": "эйншент",
+"ex": "The Ancient is the main building in Dota.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "tower",
+"en": "tower",
+"ru": "башня",
+"ipa": "ˈtaʊə",
+"tr": "тауэ",
+"ex": "We destroyed the enemy tower.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "skill",
+"en": "skill",
+"ru": "способность / умение",
+"ipa": "skɪl",
+"tr": "скилл",
+"ex": "Shading is my best skill.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "can",
+"en": "can",
+"ru": "мочь / уметь / иметь возможность",
+"ipa": "kæn",
+"tr": "кэн",
+"ex": "I can do it next week.",
+"c": "modals",
+"m": 3,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "could",
+"en": "could",
+"ru": "мог бы / вежливая просьба / возможность в прошлом",
+"ipa": "kʊd",
+"tr": "куд",
+"ex": "Could you turn around, please?",
+"c": "modals",
+"m": 9,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "may",
+"en": "may",
+"ru": "мочь / иметь разрешение (официально)",
+"ipa": "meɪ",
+"tr": "мэй",
+"ex": "May I see your ID?",
+"c": "modals",
+"m": 8,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "might",
+"en": "might",
+"ru": "может быть / слабая вероятность",
+"ipa": "maɪt",
+"tr": "майт",
+"ex": "It might itch a little.",
+"c": "modals",
+"m": 8,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "shall",
+"en": "shall",
+"ru": "следует ли / официальное предложение",
+"ipa": "ʃæl",
+"tr": "шэл",
+"ex": "Shall we start?",
+"c": "modals",
+"m": 9,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "should",
+"en": "should",
+"ru": "следует / совет",
+"ipa": "ʃʊd",
+"tr": "шуд",
+"ex": "You should wash it twice a day.",
+"c": "modals",
+"m": 6,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "will",
+"en": "will",
+"ru": "буду / намерение в будущем",
+"ipa": "wɪl",
+"tr": "уил",
+"ex": "It will heal in two weeks.",
+"c": "modals",
+"m": 5,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "would",
+"en": "would",
+"ru": "бы / вежливое предложение или бывшая привычка",
+"ipa": "wʊd",
+"tr": "вуд",
+"ex": "Would you like some water?",
+"c": "modals",
+"m": 9,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "must",
+"en": "must",
+"ru": "должен / обязан (строгое правило)",
+"ipa": "mʌst",
+"tr": "маст",
+"ex": "You must be over 18.",
+"c": "modals",
+"m": 6,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "need",
+"en": "need",
+"ru": "нужно / необходимо",
+"ipa": "niːd",
+"tr": "нид",
+"ex": "You need to sign the consent form.",
+"c": "modals",
+"m": 6,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "have-to",
+"en": "have to",
+"ru": "приходится / вынужден (из-за обстоятельств)",
+"ipa": "hæv tə",
+"tr": "хэв ту",
+"ex": "You have to keep it clean.",
+"c": "modals",
+"m": 6,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "ought-to",
+"en": "ought to",
+"ru": "следует / моральный долг",
+"ipa": "ɔːt tə",
+"tr": "от ту",
+"ex": "You ought to rest after a long session.",
+"c": "modals",
+"m": 6,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "now",
+"en": "now",
+"ru": "сейчас",
+"ipa": "naʊ",
+"tr": "нау",
+"ex": "You can look now.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "at-the-moment",
+"en": "at the moment",
+"ru": "в данный момент",
+"ipa": "ət ðə ˈməʊmənt",
+"tr": "эт зэ моумент",
+"ex": "I am doing the outline at the moment.",
+"c": "time",
+"m": 5,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "from-time-to-time",
+"en": "from time to time",
+"ru": "время от времени",
+"ipa": "frəm taɪm tə taɪm",
+"tr": "фром тайм ту тайм",
+"ex": "From time to time I take a break.",
+"c": "time",
+"m": 5,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "transform",
+"en": "transform",
+"ru": "трансформировать / видоизменять",
+"ipa": "trænsˈfɔːm",
+"tr": "трансформ",
+"ex": "I can transform your old tattoo.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "inner-part",
+"en": "inner part",
+"ru": "внутренняя часть",
+"ipa": "ˈɪnə pɑːt",
+"tr": "иннэр парт",
+"ex": "The inner part of the arm is sensitive.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "outer-part",
+"en": "outer part",
+"ru": "внешняя часть",
+"ipa": "ˈaʊtə pɑːt",
+"tr": "аутэр парт",
+"ex": "The outer part of the arm is easier.",
+"c": "anatomy",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "dungeon",
+"en": "dungeon",
+"ru": "подземелье",
+"ipa": "ˈdʌndʒən",
+"tr": "данджен",
+"ex": "He wants a dungeon with a dragon.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "undead",
+"en": "undead",
+"ru": "нежить",
+"ipa": "ˌʌnˈded",
+"tr": "андед",
+"ex": "An undead warrior on the forearm.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "sword",
+"en": "sword",
+"ru": "меч",
+"ipa": "sɔːd",
+"tr": "сорд",
+"ex": "I blasted a sword on his chest.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "medieval",
+"en": "medieval",
+"ru": "средневековый",
+"ipa": "ˌmediˈiːvl",
+"tr": "медиэвл",
+"ex": "She likes medieval style.",
+"c": "dota",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "piece",
+"en": "piece",
+"ru": "татуировка / работа (сленг)",
+"ipa": "piːs",
+"tr": "пис",
+"ex": "This piece took five hours.",
+"c": "slang",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "blast",
+"en": "blast",
+"ru": "набивать / колоть (сленг)",
+"ipa": "blɑːst",
+"tr": "бласт",
+"ex": "I blasted a rose yesterday.",
+"c": "slang",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "machine",
+"en": "machine",
+"ru": "тату-машинка (сленг)",
+"ipa": "məˈʃiːn",
+"tr": "машин",
+"ex": "My machine is very quiet.",
+"c": "slang",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "fresh-ink",
+"en": "fresh ink",
+"ru": "свежая татуировка (сленг)",
+"ipa": "freʃ ɪŋk",
+"tr": "фреш инк",
+"ex": "Fresh ink needs a lot of care.",
+"c": "slang",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "customer",
+"en": "customer",
+"ru": "клиент",
+"ipa": "ˈkʌstəmə",
+"tr": "кастэма",
+"ex": "My first customer came at 11.",
+"c": "client",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "soap",
+"en": "soap",
+"ru": "мыло",
+"ipa": "səʊp",
+"tr": "соуп",
+"ex": "Wash it with soap and water.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "alcohol-wipe",
+"en": "alcohol wipe",
+"ru": "спиртовая салфетка",
+"ipa": "ˈælkəhɒl waɪp",
+"tr": "элкохол вайп",
+"ex": "I clean the skin with an alcohol wipe.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "wrap-cover",
+"en": "wrap / Cover",
+"ru": "пленка / защита",
+"ipa": "ræp / ˈkʌvə",
+"tr": "рэп / кавэ",
+"ex": "Keep the wrap on for two hours.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "clean",
+"en": "clean",
+"ru": "чистить / чистый",
+"ipa": "kliːn",
+"tr": "клин",
+"ex": "My workstation is always clean.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "touch",
+"en": "touch",
+"ru": "трогать",
+"ipa": "tʌtʃ",
+"tr": "тач",
+"ex": "Don't touch it with dirty hands.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "stretch",
+"en": "stretch",
+"ru": "натягивать (кожу)",
+"ipa": "stretʃ",
+"tr": "стретч",
+"ex": "I stretch the skin with my hand.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "finish",
+"en": "finish",
+"ru": "заканчивать",
+"ipa": "ˈfɪnɪʃ",
+"tr": "финиш",
+"ex": "We will finish in ten minutes.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "ready",
+"en": "ready",
+"ru": "готовый",
+"ipa": "ˈredi",
+"tr": "реди",
+"ex": "Are you ready? Let's start.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "break",
+"en": "break",
+"ru": "перерыв",
+"ipa": "breɪk",
+"tr": "брейк",
+"ex": "Do you need a break?",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "tasks",
+"en": "tasks",
+"ru": "задания",
+"ipa": "tɑːsks",
+"tr": "таскс",
+"ex": "I have many tasks today.",
+"c": "general",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "dilute",
+"en": "dilute",
+"ru": "разводить краску",
+"ipa": "daɪˈluːt",
+"tr": "дайлют",
+"ex": "I dilute black ink for grey shading.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "color-packing",
+"en": "color packing",
+"ru": "закрас",
+"ipa": "ˈkʌlə ˈpækɪŋ",
+"tr": "кала пэкин",
+"ex": "Color packing takes a lot of time.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "sterilization",
+"en": "sterilization",
+"ru": "стерилизация",
+"ipa": "ˌsterəlaɪˈzeɪʃn",
+"tr": "стерилизейшн",
+"ex": "Sterilization is very important.",
+"c": "health",
+"m": 8,
+"track": "tattoo",
+"src": [
+"q1"
+]
+},{
+"id": "play-played",
+"en": "play – played",
+"ru": "играть",
+"ipa": "pleɪ – pleɪd",
+"tr": "плей – плейд",
+"ex": "I played Dota all night.",
+"c": "verbs",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "live",
+"en": "live",
+"ru": "жить",
+"ipa": "lɪv",
+"tr": "лив",
+"ex": "I live in a big city.",
+"c": "general",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "move",
+"en": "move",
+"ru": "переезжать",
+"ipa": "muːv",
+"tr": "мув",
+"ex": "I moved to a new studio last year.",
+"c": "general",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "start",
+"en": "start",
+"ru": "начинать",
+"ipa": "stɑːt",
+"tr": "старт",
+"ex": "I started tattooing five years ago.",
+"c": "general",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "use",
+"en": "use",
+"ru": "использовать",
+"ipa": "juːs",
+"tr": "юз",
+"ex": "I use a rotary machine.",
+"c": "general",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "1-year-ago",
+"en": "1 year ago",
+"ru": "1 год назад",
+"ipa": "wʌn jɪə əˈɡəʊ",
+"tr": "уан йиэ эгоу",
+"ex": "I opened my studio 1 year ago.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "for-1-year",
+"en": "for 1 year",
+"ru": "в течение 1 года",
+"ipa": "fə wʌn jɪə",
+"tr": "фо уан йиэ",
+"ex": "I have worked here for 1 year.",
+"c": "time",
+"m": 7,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "before",
+"en": "before",
+"ru": "до того как",
+"ipa": "bɪˈfɔː",
+"tr": "бифо",
+"ex": "Eat something before the session.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "in-5-minutes",
+"en": "in 5 minutes",
+"ru": "через 5 минут",
+"ipa": "ɪn faɪv ˈmɪnɪts",
+"tr": "ин файв минитс",
+"ex": "We will start in 5 minutes.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "soon",
+"en": "soon",
+"ru": "скоро",
+"ipa": "suːn",
+"tr": "сун",
+"ex": "It will stop hurting soon.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "later",
+"en": "later",
+"ru": "позже",
+"ipa": "ˈleɪtə",
+"tr": "лейтэ",
+"ex": "I will send you the sketch later.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "tomorrow",
+"en": "tomorrow",
+"ru": "завтра",
+"ipa": "təˈmɒrəʊ",
+"tr": "тумороу",
+"ex": "Come back tomorrow at 12.",
+"c": "time",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "next-week",
+"en": "next week",
+"ru": "на следующей неделе",
+"ipa": "nekst wiːk",
+"tr": "некст вик",
+"ex": "I am available next week.",
+"c": "time",
+"m": 3,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "always",
+"en": "always",
+"ru": "всегда",
+"ipa": "ˈɔːlwɪz",
+"tr": "олвейз",
+"ex": "I always wear gloves.",
+"c": "time",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "often",
+"en": "often",
+"ru": "часто",
+"ipa": "ˈɒfən",
+"tr": "офн",
+"ex": "I often draw at night.",
+"c": "time",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "every-day",
+"en": "every day",
+"ru": "каждый день",
+"ipa": "ˈevri deɪ",
+"tr": "эври дей",
+"ex": "I clean my machine every day.",
+"c": "time",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "twice-a-day",
+"en": "twice a day",
+"ru": "дважды в день",
+"ipa": "twaɪs ə deɪ",
+"tr": "твайс э дей",
+"ex": "Wash it twice a day.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "full-time",
+"en": "full-time",
+"ru": "полный рабочий день",
+"ipa": "ˌfʊl ˈtaɪm",
+"tr": "фул тайм",
+"ex": "I work at the studio full-time.",
+"c": "general",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "design",
+"en": "design",
+"ru": "дизайн / эскиз",
+"ipa": "dɪˈzaɪn",
+"tr": "дизайн",
+"ex": "Do you like the design?",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "line",
+"en": "line",
+"ru": "линия",
+"ipa": "laɪn",
+"tr": "лайн",
+"ex": "This line is too thick.",
+"c": "design",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "bottle",
+"en": "bottle",
+"ru": "бутылка",
+"ipa": "ˈbɒtl",
+"tr": "ботл",
+"ex": "Pass me the green soap bottle.",
+"c": "studio",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "bandage",
+"en": "bandage",
+"ru": "повязка",
+"ipa": "ˈbændɪdʒ",
+"tr": "бэндидж",
+"ex": "Take off the bandage tomorrow.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "scratch",
+"en": "scratch",
+"ru": "чесать",
+"ipa": "skrætʃ",
+"tr": "скрэтч",
+"ex": "Don't scratch it, even if it itches.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "dirty-hands",
+"en": "dirty hands",
+"ru": "грязные руки",
+"ipa": "ˈdɜːti hændz",
+"tr": "дёрти хэндз",
+"ex": "Never touch it with dirty hands.",
+"c": "aftercare",
+"m": 6,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "twitch",
+"en": "twitch",
+"ru": "дёргаться",
+"ipa": "twɪtʃ",
+"tr": "твитч",
+"ex": "Please don't twitch.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "bend",
+"en": "bend",
+"ru": "согнуть",
+"ipa": "bend",
+"tr": "бенд",
+"ex": "Bend your knee a little.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "sit-back-and-relax",
+"en": "sit back and relax",
+"ru": "откинуться и расслабиться",
+"ipa": "sɪt bæk ənd rɪˈlæks",
+"tr": "сит бэк энд рилэкс",
+"ex": "Sit back and relax, it will take an hour.",
+"c": "commands",
+"m": 2,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "dont-worry",
+"en": "don't worry",
+"ru": "не волнуйся",
+"ipa": "dəʊnt ˈwʌri",
+"tr": "донт вари",
+"ex": "Don't worry, it's normal.",
+"c": "client",
+"m": 5,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "easier",
+"en": "easier",
+"ru": "легче / проще",
+"ipa": "ˈiːziə",
+"tr": "изиэ",
+"ex": "The outer arm is easier than the ribs.",
+"c": "adjectives",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "heavier",
+"en": "heavier",
+"ru": "тяжелее",
+"ipa": "ˈheviə",
+"tr": "хевиэ",
+"ex": "A rotary machine is heavier than a pen.",
+"c": "adjectives",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "more-expensive",
+"en": "more expensive",
+"ru": "дороже",
+"ipa": "mɔː ɪkˈspensɪv",
+"tr": "мо экспенсив",
+"ex": "Color is more expensive than black and grey.",
+"c": "adjectives",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "than",
+"en": "than",
+"ru": "чем (при сравнении)",
+"ipa": "ðæn",
+"tr": "ðэн",
+"ex": "The ribs are more painful than the arm.",
+"c": "adjectives",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "huge",
+"en": "huge",
+"ru": "огромный",
+"ipa": "hjuːdʒ",
+"tr": "хьюдж",
+"ex": "He wants a huge back piece.",
+"c": "adjectives",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "long",
+"en": "long",
+"ru": "долгий / длинный",
+"ipa": "lɒŋ",
+"tr": "лонг",
+"ex": "It was a long session.",
+"c": "adjectives",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "tired",
+"en": "tired",
+"ru": "уставший",
+"ipa": "ˈtaɪəd",
+"tr": "тайэд",
+"ex": "Are you tired? Let's take a break.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "scared",
+"en": "scared",
+"ru": "напуганный",
+"ipa": "skeəd",
+"tr": "скэрд",
+"ex": "Are you scared? It's OK.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "gentle",
+"en": "gentle",
+"ru": "аккуратный / нежный",
+"ipa": "ˈdʒentl",
+"tr": "джентл",
+"ex": "I will be gentle.",
+"c": "adjectives",
+"m": 5,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "cool",
+"en": "cool",
+"ru": "крутой",
+"ipa": "kuːl",
+"tr": "кул",
+"ex": "Your idea is really cool.",
+"c": "adjectives",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "a-little-bit",
+"en": "a little bit",
+"ru": "немного",
+"ipa": "ə ˈlɪtl bɪt",
+"tr": "э литл бит",
+"ex": "It will hurt a little bit.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "a-few",
+"en": "a few",
+"ru": "несколько",
+"ipa": "ə fjuː",
+"tr": "э фью",
+"ex": "I have a few free days in May.",
+"c": "general",
+"m": 3,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "options",
+"en": "options",
+"ru": "варианты",
+"ipa": "ˈɒpʃnz",
+"tr": "опшнс",
+"ex": "I can draw two options.",
+"c": "client",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "mistake",
+"en": "mistake",
+"ru": "ошибка",
+"ipa": "mɪˈsteɪk",
+"tr": "мистейк",
+"ex": "Everybody makes mistakes.",
+"c": "general",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "together",
+"en": "together",
+"ru": "вместе",
+"ipa": "təˈɡeðə",
+"tr": "тэгеðэ",
+"ex": "Let's choose the placement together.",
+"c": "client",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "career",
+"en": "career",
+"ru": "карьера",
+"ipa": "kəˈrɪə",
+"tr": "кэриэ",
+"ex": "I started my career in 2019.",
+"c": "general",
+"m": 7,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "livestream",
+"en": "livestream",
+"ru": "прямой эфир / стрим",
+"ipa": "ˈlaɪvstriːm",
+"tr": "лайвстрим",
+"ex": "I watched his livestream on Twitch.",
+"c": "general",
+"m": 10,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "flat-apartment",
+"en": "flat / Apartment",
+"ru": "квартира",
+"ipa": "flæt / əˈpɑːtmənt",
+"tr": "флэт / эпартмент",
+"ex": "I live in a small flat.",
+"c": "general",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "flat",
+"en": "flat",
+"ru": "плоский",
+"ipa": "flæt",
+"tr": "флэт",
+"ex": "The skin here is flat and easy to work on.",
+"c": "adjectives",
+"m": 4,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "house",
+"en": "house",
+"ru": "дом (здание)",
+"ipa": "haʊs",
+"tr": "хаус",
+"ex": "The studio is in an old house.",
+"c": "general",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "home",
+"en": "home",
+"ru": "дом (родной, где живёшь)",
+"ipa": "həʊm",
+"tr": "хоум",
+"ex": "Go home and rest.",
+"c": "general",
+"m": 1,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "a-lot-of-pain",
+"en": "a lot of pain",
+"ru": "сильная боль",
+"ipa": "ə lɒt əv peɪn",
+"tr": "э лот ов пейн",
+"ex": "The ribs can give a lot of pain.",
+"c": "pain",
+"m": 5,
+"track": "tattoo",
+"src": [
+"q2"
+]
+},{
+"id": "book-a-session",
+"en": "book a session",
+"ru": "записаться на сеанс",
+"ipa": "bʊk ə ˈseʃn",
+"tr": "бук э сешн",
+"ex": "You can book a session on Instagram.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"q3"
+]
+},{
+"id": "consultation",
+"en": "consultation",
+"ru": "консультация",
+"ipa": "ˌkɒnslˈteɪʃn",
+"tr": "консалтейшн",
+"ex": "The consultation is free.",
+"c": "booking",
+"m": 3,
+"track": "tattoo",
+"src": [
+"q3"
+]
+},{
+"id": "hello",
+"en": "Hello!",
+"ru": "Здравствуйте! / Привет!",
+"ipa": "həˈləʊ",
+"tr": "хэло́у",
+"ex": "Hello! Come in, please.",
+"c": "p_basics",
+"m": 1,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "nice-to-meet-you",
+"en": "Nice to meet you",
+"ru": "Приятно познакомиться",
+"ipa": "naɪs tə miːt juː",
+"tr": "найс тэ мит ю",
+"ex": "I'm Anna. Nice to meet you.",
+"c": "p_basics",
+"m": 1,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "how-are-you",
+"en": "How are you?",
+"ru": "Как дела? / Как вы?",
+"ipa": "haʊ ɑː juː",
+"tr": "хау а ю",
+"ex": "Hi! How are you today?",
+"c": "p_basics",
+"m": 1,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "thank-you",
+"en": "Thank you",
+"ru": "Спасибо",
+"ipa": "θæŋk juː",
+"tr": "θэнк ю",
+"ex": "Thank you for coming.",
+"c": "p_basics",
+"m": 1,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "youre-welcome",
+"en": "You're welcome",
+"ru": "Пожалуйста (в ответ на спасибо)",
+"ipa": "jɔː ˈwelkəm",
+"tr": "йо уе́лкэм",
+"ex": "— Thank you! — You're welcome.",
+"c": "p_basics",
+"m": 1,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "sorry-i-dont-understand",
+"en": "Sorry, I don't understand",
+"ru": "Извините, я не понимаю",
+"ipa": "ˈsɒri aɪ dəʊnt ˌʌndəˈstænd",
+"tr": "со́ри ай доунт андэстэ́нд",
+"ex": "Sorry, I don't understand. Can you write it?",
+"c": "p_basics",
+"m": 1,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "can-you-repeat-please",
+"en": "Can you repeat, please?",
+"ru": "Повторите, пожалуйста",
+"ipa": "kən juː rɪˈpiːt pliːz",
+"tr": "кэн ю рипи́т плиз",
+"ex": "Can you repeat, please? Slowly.",
+"c": "p_basics",
+"m": 1,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "slowly-please",
+"en": "slowly, please",
+"ru": "медленно, пожалуйста",
+"ipa": "ˈsləʊli pliːz",
+"tr": "сло́ули плиз",
+"ex": "Speak slowly, please.",
+"c": "p_basics",
+"m": 1,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "please-sit-here",
+"en": "Please sit here",
+"ru": "Садитесь сюда, пожалуйста",
+"ipa": "pliːz sɪt hɪə",
+"tr": "плиз сит хиэ",
+"ex": "Please sit here and relax.",
+"c": "p_basics",
+"m": 3,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "one-moment-please",
+"en": "One moment, please",
+"ru": "Минутку, пожалуйста",
+"ipa": "wʌn ˈməʊmənt pliːz",
+"tr": "уан мо́умэнт плиз",
+"ex": "One moment, please, I'm getting the jewelry.",
+"c": "p_basics",
+"m": 3,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "are-you-ok",
+"en": "Are you OK?",
+"ru": "Вы в порядке?",
+"ipa": "ɑː juː əʊˈkeɪ",
+"tr": "а ю оуке́й",
+"ex": "Are you OK? Do you feel dizzy?",
+"c": "p_basics",
+"m": 3,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "breathe-in",
+"en": "Breathe in",
+"ru": "Вдох",
+"ipa": "briːð ɪn",
+"tr": "бриð ин",
+"ex": "Breathe in… and breathe out.",
+"c": "p_basics",
+"m": 6,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "breathe-out",
+"en": "Breathe out",
+"ru": "Выдох",
+"ipa": "briːð aʊt",
+"tr": "бриð аут",
+"ex": "Breathe out now.",
+"c": "p_basics",
+"m": 6,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "its-done",
+"en": "It's done!",
+"ru": "Готово!",
+"ipa": "ɪts dʌn",
+"tr": "итс дан",
+"ex": "It's done! Look in the mirror.",
+"c": "p_basics",
+"m": 6,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "do-you-like-it",
+"en": "Do you like it?",
+"ru": "Вам нравится?",
+"ipa": "duː juː laɪk ɪt",
+"tr": "ду ю лайк ит",
+"ex": "Here it is. Do you like it?",
+"c": "p_basics",
+"m": 6,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "see-you-soon",
+"en": "See you soon",
+"ru": "До скорой встречи",
+"ipa": "siː juː suːn",
+"tr": "си ю сун",
+"ex": "Bye! See you soon for the downsize.",
+"c": "p_basics",
+"m": 3,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "how-old-are-you",
+"en": "How old are you?",
+"ru": "Сколько вам лет?",
+"ipa": "haʊ əʊld ɑː juː",
+"tr": "хау оулд а ю",
+"ex": "How old are you? Can I see your ID?",
+"c": "p_basics",
+"m": 3,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "piercing",
+"en": "piercing",
+"ru": "пирсинг, прокол",
+"ipa": "ˈpɪəsɪŋ",
+"tr": "пи́эсинг",
+"ex": "This is your first piercing?",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "pierce",
+"en": "pierce",
+"ru": "прокалывать",
+"ipa": "pɪəs",
+"tr": "пиэс",
+"ex": "I will pierce your ear.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "ear",
+"en": "ear",
+"ru": "ухо",
+"ipa": "ɪə",
+"tr": "иэ",
+"ex": "Which ear, left or right?",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "lobe",
+"en": "lobe",
+"ru": "мочка уха",
+"ipa": "ləʊb",
+"tr": "лоуб",
+"ex": "A lobe piercing heals fast.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "cartilage",
+"en": "cartilage",
+"ru": "хрящ",
+"ipa": "ˈkɑːtɪlɪdʒ",
+"tr": "ка́тилидж",
+"ex": "Cartilage heals slowly.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "helix",
+"en": "helix",
+"ru": "хеликс (верхний край уха)",
+"ipa": "ˈhiːlɪks",
+"tr": "хи́ликс",
+"ex": "I want a helix piercing.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "tragus",
+"en": "tragus",
+"ru": "трагус (козелок уха)",
+"ipa": "ˈtreɪɡəs",
+"tr": "тре́йгэс",
+"ex": "The tragus is small and thick.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "conch",
+"en": "conch",
+"ru": "конч (раковина уха)",
+"ipa": "kɒŋk",
+"tr": "конк",
+"ex": "A conch piercing with a stud.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "daith",
+"en": "daith",
+"ru": "дейс (внутренний хрящ уха)",
+"ipa": "deɪθ",
+"tr": "дейθ",
+"ex": "The daith is a small ring inside the ear.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "rook",
+"en": "rook",
+"ru": "рук (складка хряща вверху уха)",
+"ipa": "rʊk",
+"tr": "рук",
+"ex": "A rook piercing takes a long time to heal.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "industrial",
+"en": "industrial",
+"ru": "индастриал (штанга через два прокола)",
+"ipa": "ɪnˈdʌstriəl",
+"tr": "инда́стриэл",
+"ex": "An industrial has two holes.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "nose",
+"en": "nose",
+"ru": "нос",
+"ipa": "nəʊz",
+"tr": "ноуз",
+"ex": "A small stud in the nose.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "nostril",
+"en": "nostril",
+"ru": "крыло носа",
+"ipa": "ˈnɒstrəl",
+"tr": "но́стрэл",
+"ex": "Left or right nostril?",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "septum",
+"en": "septum",
+"ru": "септум (перегородка носа)",
+"ipa": "ˈseptəm",
+"tr": "се́птэм",
+"ex": "A septum ring looks cool.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "lip",
+"en": "lip",
+"ru": "губа",
+"ipa": "lɪp",
+"tr": "лип",
+"ex": "Lip piercings can swell.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "tongue",
+"en": "tongue",
+"ru": "язык",
+"ipa": "tʌŋ",
+"tr": "танг",
+"ex": "A tongue piercing swells for a few days.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "eyebrow",
+"en": "eyebrow",
+"ru": "бровь",
+"ipa": "ˈaɪbraʊ",
+"tr": "а́йбрау",
+"ex": "An eyebrow piercing with a curved barbell.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "navel",
+"en": "navel",
+"ru": "пупок",
+"ipa": "ˈneɪvl",
+"tr": "не́йвл",
+"ex": "A navel piercing needs 6–12 months to heal.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "belly-button",
+"en": "belly button",
+"ru": "пупок (разговорное)",
+"ipa": "ˈbeli ˈbʌtən",
+"tr": "бе́ли ба́тэн",
+"ex": "Clients often say belly button, not navel.",
+"c": "p_places",
+"m": 4,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "jewelry",
+"en": "jewelry",
+"ru": "украшения (в пирсинге)",
+"ipa": "ˈdʒuːəlri",
+"tr": "джу́элри",
+"ex": "All our jewelry is titanium.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "titanium",
+"en": "titanium",
+"ru": "титан",
+"ipa": "tɪˈteɪniəm",
+"tr": "тите́йниэм",
+"ex": "Titanium is safe for new piercings.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "surgical-steel",
+"en": "surgical steel",
+"ru": "хирургическая сталь",
+"ipa": "ˈsɜːdʒɪkl stiːl",
+"tr": "сёджикл стил",
+"ex": "Surgical steel is cheaper.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "gold",
+"en": "gold",
+"ru": "золото",
+"ipa": "ɡəʊld",
+"tr": "гоулд",
+"ex": "We also have gold jewelry.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "stud",
+"en": "stud",
+"ru": "гвоздик, пусета",
+"ipa": "stʌd",
+"tr": "стад",
+"ex": "A small stud for the lobe.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "hoop",
+"en": "hoop",
+"ru": "кольцо",
+"ipa": "huːp",
+"tr": "хуп",
+"ex": "You can change to a hoop later.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "ring",
+"en": "ring",
+"ru": "кольцо",
+"ipa": "rɪŋ",
+"tr": "ринг",
+"ex": "A septum ring or a clicker?",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "labret",
+"en": "labret",
+"ru": "лабрет (штанга с плоской застёжкой)",
+"ipa": "ˈleɪbrət",
+"tr": "ле́йбрэт",
+"ex": "A labret has a flat back.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "flat-back",
+"en": "flat back",
+"ru": "плоская застёжка",
+"ipa": "flæt bæk",
+"tr": "флэт бэк",
+"ex": "A flat back is comfortable for sleeping.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "barbell",
+"en": "barbell",
+"ru": "штанга",
+"ipa": "ˈbɑːbel",
+"tr": "ба́бел",
+"ex": "A straight barbell for the tongue.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "curved-barbell",
+"en": "curved barbell",
+"ru": "изогнутая штанга, банан",
+"ipa": "kɜːvd ˈbɑːbel",
+"tr": "кёвд ба́бел",
+"ex": "A curved barbell for the navel.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "threadless",
+"en": "threadless",
+"ru": "безрезьбовое (украшение)",
+"ipa": "ˈθredləs",
+"tr": "θре́длэс",
+"ex": "This top is threadless.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "gauge",
+"en": "gauge",
+"ru": "калибр, толщина украшения",
+"ipa": "ɡeɪdʒ",
+"tr": "гейдж",
+"ex": "The gauge is 1.2 millimetres.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "length",
+"en": "length",
+"ru": "длина",
+"ipa": "leŋθ",
+"tr": "ленгθ",
+"ex": "The length is 8 millimetres.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "millimetre",
+"en": "millimetre",
+"ru": "миллиметр",
+"ipa": "ˈmɪlɪmiːtə",
+"tr": "ми́лимитэ",
+"ex": "It is 6 millimetres long.",
+"c": "p_jewelry",
+"m": 5,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "hollow-needle",
+"en": "hollow needle",
+"ru": "полая игла",
+"ipa": "ˈhɒləʊ ˈniːdl",
+"tr": "хо́лоу ни́дл",
+"ex": "I use a hollow needle, not a gun.",
+"c": "p_tools",
+"m": 6,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "piercing-gun",
+"en": "piercing gun",
+"ru": "пистолет для прокола",
+"ipa": "ˈpɪəsɪŋ ɡʌn",
+"tr": "пи́эсинг ган",
+"ex": "We never use a piercing gun.",
+"c": "p_tools",
+"m": 6,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "cannula",
+"en": "cannula",
+"ru": "катетер (канюля)",
+"ipa": "ˈkænjʊlə",
+"tr": "кэ́нюлэ",
+"ex": "The cannula is soft plastic.",
+"c": "p_tools",
+"m": 6,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "clamp",
+"en": "clamp",
+"ru": "зажим",
+"ipa": "klæmp",
+"tr": "клэмп",
+"ex": "I use a clamp for the tongue.",
+"c": "p_tools",
+"m": 6,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "marker",
+"en": "marker",
+"ru": "маркер (разметка)",
+"ipa": "ˈmɑːkə",
+"tr": "ма́кэ",
+"ex": "I mark the spot with a marker.",
+"c": "p_tools",
+"m": 6,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "mark-the-spot",
+"en": "mark the spot",
+"ru": "отметить точку",
+"ipa": "mɑːk ðə spɒt",
+"tr": "мак ðэ спот",
+"ex": "Let me mark the spot.",
+"c": "p_tools",
+"m": 6,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "autoclave",
+"en": "autoclave",
+"ru": "автоклав",
+"ipa": "ˈɔːtəkleɪv",
+"tr": "о́тэклейв",
+"ex": "All tools go in the autoclave.",
+"c": "p_tools",
+"m": 6,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "quick-pinch",
+"en": "quick pinch",
+"ru": "быстрый укол, «щипок»",
+"ipa": "kwɪk pɪntʃ",
+"tr": "квик пинч",
+"ex": "It's just a quick pinch.",
+"c": "p_tools",
+"m": 6,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "saline-spray",
+"en": "saline spray",
+"ru": "солевой спрей",
+"ipa": "ˈseɪlaɪn spreɪ",
+"tr": "се́йлайн спрей",
+"ex": "Use saline spray twice a day.",
+"c": "p_care",
+"m": 7,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "dont-twist",
+"en": "don't twist",
+"ru": "не крутите (украшение)",
+"ipa": "dəʊnt twɪst",
+"tr": "доунт твист",
+"ex": "Don't twist the jewelry.",
+"c": "p_care",
+"m": 7,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "dont-sleep-on-it",
+"en": "don't sleep on it",
+"ru": "не спите на этой стороне",
+"ipa": "dəʊnt sliːp ɒn ɪt",
+"tr": "доунт слип он ит",
+"ex": "Don't sleep on it for a month.",
+"c": "p_care",
+"m": 7,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "crusties",
+"en": "crusties",
+"ru": "корочки у прокола",
+"ipa": "ˈkrʌstiz",
+"tr": "кра́стиз",
+"ex": "Crusties are normal. Just rinse them.",
+"c": "p_care",
+"m": 7,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "rinse",
+"en": "rinse",
+"ru": "промыть, ополоснуть",
+"ipa": "rɪns",
+"tr": "ринс",
+"ex": "Rinse it with warm water.",
+"c": "p_care",
+"m": 7,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "bump",
+"en": "bump",
+"ru": "шишка, бугорок у прокола",
+"ipa": "bʌmp",
+"tr": "бамп",
+"ex": "A bump is usually irritation.",
+"c": "p_care",
+"m": 7,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "irritation",
+"en": "irritation",
+"ru": "раздражение",
+"ipa": "ˌɪrɪˈteɪʃn",
+"tr": "ирите́йшн",
+"ex": "Irritation can come from sleeping on it.",
+"c": "p_care",
+"m": 7,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "downsize",
+"en": "downsize",
+"ru": "замена на короткую штангу",
+"ipa": "ˈdaʊnsaɪz",
+"tr": "да́унсайз",
+"ex": "Come back in 4 weeks for a downsize.",
+"c": "p_care",
+"m": 7,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "migration",
+"en": "migration",
+"ru": "миграция (прокол смещается)",
+"ipa": "maɪˈɡreɪʃn",
+"tr": "майгре́йшн",
+"ex": "Migration means the piercing moves.",
+"c": "p_care",
+"m": 7,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "rejection",
+"en": "rejection",
+"ru": "отторжение",
+"ipa": "rɪˈdʒekʃn",
+"tr": "ридже́кшн",
+"ex": "Rejection is rare with titanium.",
+"c": "p_care",
+"m": 7,
+"track": "piercing",
+"src": [
+"pierce"
+]
+},{
+"id": "change-the-jewelry",
+"en": "change the jewelry",
+"ru": "поменять украшение",
+"ipa": "tʃeɪndʒ ðə ˈdʒuːəlri",
+"tr": "чейндж ðэ джу́элри",
+"ex": "Don't change the jewelry for 3 months.",
+"c": "p_care",
+"m": 7,
+"track": "piercing",
+"src": [
+"pierce"
+]
+}
+]
+}

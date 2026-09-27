@@ -1,0 +1,24 @@
+head [hed]	голова — Keep your head still.
+face [feɪs]	лицо — I don't tattoo the face.
+neck [nek]	шея — The neck is a sensitive area.
+shoulder [ˈʃəʊldə]	плечо — A shoulder piece heals well.
+arm [ɑːm]	рука (от плеча до кисти) — Put your arm here.
+elbow [ˈelbəʊ]	локоть — The elbow is more painful.
+forearm [ˈfɔːrɑːm]	предплечье — Forearm tattoos are popular.
+wrist [rɪst]	запястье — A small tattoo on the wrist.
+hand [hænd]	кисть руки — Hand tattoos fade faster.
+finger [ˈfɪŋɡə]	палец (руки) — Finger tattoos fade fast.
+knuckles [ˈnʌklz]	костяшки пальцев — Lettering on the knuckles.
+chest [tʃest]	грудь (грудная клетка) — I blasted a sword on his chest.
+breast [brest]	грудь (женская) — She wants a tattoo under the breast.
+back [bæk]	спина — A back piece takes many sessions.
+spine [spaɪn]	позвоночник — The spine is very painful.
+ribs [rɪbz]	рёбра — Ribs are one of the most painful places.
+stomach [ˈstʌmək]	живот — Lie on your stomach, please.
+hip [hɪp]	бедро (тазобедренная часть) — A flower on the hip.
+thigh [θaɪ]	бедро (верхняя часть ноги) — The thigh is good for big designs.
+knee [niː]	колено — The knee is very painful.
+calf [kɑːf]	икра (ноги) — A calf tattoo heals quickly.
+shin [ʃɪn]	голень (передняя часть) — The shin is bony.
+ankle [ˈæŋkl]	лодыжка — A small tattoo on the ankle.
+foot [fʊt]	стопа — Foot tattoos fade faster.

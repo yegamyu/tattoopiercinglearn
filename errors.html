@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ошибки</title>
+<meta name="description" content="Реестр ошибок и упражнение «исправь ошибку»">
+<meta name="theme-color" content="#4B2C8C">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🖋️%3C/text%3E%3C/svg%3E">
+<script>try{var t=JSON.parse(localStorage.getItem("te:theme"));if(t&&t!=="auto")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Onest:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div class="wrap">
+<header id="top"></header>
+<nav id="nav" aria-label="Разделы"></nav>
+<main id="main">
+<h1 class="page">Реестр ошибок</h1>
+<p class="note">Проверяем на каждом уроке, пока ошибка не исчезнет из речи на месяц. Когда ушла — отметь «Ушла из речи».</p>
+<div class="row" style="margin-bottom:12px"><button class="btn" id="fixStart" type="button">Упражнение «исправь ошибку»</button></div>
+<div class="stage hidden" id="stage" aria-live="polite" style="margin-bottom:20px"></div>
+<div id="errs"></div>
+</main>
+<footer>Tattoo English · прогресс хранится только в этом браузере</footer>
+</div>
+<script type="module" src="assets/js/errors.js"></script>
+</body>
+</html>
