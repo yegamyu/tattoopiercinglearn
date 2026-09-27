@@ -1,0 +1,32 @@
+{
+  "id": "tattoo-a2",
+  "name": "Тату-мастер",
+  "emoji": "🖋️",
+  "status": "active",
+  "level": "A2",
+  "course": "tattoo",
+  "interest": "Dota 2",
+  "goal": "Уверенно говорить с англоязычными клиентами: консультация, сеанс, боль, цена, уход.",
+  "schedule": "2 урока в неделю по 90 минут + 15 минут Quizlet каждый день",
+  "lesson": [
+    {"min": 30, "t": "ДЗ и разминка", "d": "Проверка ДЗ, Quizlet Match через демонстрацию экрана, ошибки из реестра"},
+    {"min": 15, "t": "Разговорная сессия", "d": "Свободный разговор или ролевая игра: клиент, консультация, сеанс"},
+    {"min": 45, "t": "Новая тема", "d": "Грамматика модуля + лексика + ситуация"}
+  ],
+  "tools": [
+    {"t": "Google Meet", "d": ["Уроки 2 раза в неделю.", "Раз в месяц — запись 10-минутной ролевой «консультации», чтобы сравнить прогресс через год."]},
+    {"t": "Google Docs", "d": ["Документ курса со вкладками: «Реестр ошибок», «ДЗ», «Фразы для клиентов».", "Исправления — только в режиме «Советовать»."]},
+    {"t": "Quizlet", "d": ["Папка «Tattoo English», один набор на категорию словаря.", "Каждый день 15 минут «Заучивание», перед концом модуля — «Тест» на 85% и выше."]}
+  ],
+  "errors": [
+    {"wrong": "I am made a stencil yesterday.", "right": "I made a stencil yesterday.", "why": "Past Simple с глаголом действия: am / is / are не нужен."},
+    {"wrong": "He feeled pain. It taked 3 hours. I buyed needles. She payed.", "right": "He felt pain. It took 3 hours. I bought needles. She paid.", "why": "Неправильные глаголы: feel–felt, take–took, buy–bought, pay–paid."},
+    {"wrong": "I work here 1 year ago.", "right": "I have worked here for 1 year.", "why": "ago — точка в прошлом, for — длительность (Present Perfect)."},
+    {"wrong": "Full at the leave", "right": "Full sleeve", "why": "sleeve [sliːv] — рукав. leave [liːv] — уходить ≠ live [lɪv] — жить."},
+    {"wrong": "mortgage [ˈmɔːtɡeɪdʒ]", "right": "mortgage [ˈmɔːɡɪdʒ]", "why": "Буква t не читается: «могидж»."},
+    {"wrong": "I am tattoo master.", "right": "I am a tattoo artist.", "why": "По-английски — tattoo artist, и нужен артикль a."},
+    {"wrong": "I blasted a sword on his breast.", "right": "I blasted a sword on his chest.", "why": "breast — женская грудь, chest — мужская (грудная клетка)."},
+    {"wrong": "It was high pain.", "right": "It was a lot of pain. / It was strong pain.", "why": "high pain так не говорят: a lot of pain, strong pain, very painful."},
+    {"wrong": "sin / sigh / zan / tugezer", "right": "thin [θɪn] / thigh [θaɪ] / than [ðən] / together [təˈɡeðə]", "why": "th — язык между зубами: θ глухой, ð звонкий. Не «с» и не «з»."}
+  ]
+}
